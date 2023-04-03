@@ -1,3 +1,3 @@
 # huffman-encoder
-# This projects haven't finished completely
+# This projects haven't passed systhesis
 # processing...
