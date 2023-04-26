@@ -30,7 +30,7 @@ To install and use this project, you can follow these steps:
 1. Clone this repository to your computer using the command:
 
 ```bash
-git clone https://github.com/your_username/huffman-coding.git
+git clone https://github.com/Binh-Diep/huffman-encoder.git
 ```
 
 2. Open the folder containing the project using the command:
