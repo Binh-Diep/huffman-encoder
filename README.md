@@ -1,5 +1,3 @@
-Tôi sẽ cố gắng thực hiện lại README bằng tiếng Anh cho bạn. Đây là bản dịch của bản nháp:
-
 # Data Compression with Huffman Coding 🗜️
 
 This project is an application of the data compression algorithm Huffman coding using the hardware language SystemVerilog. This project can compress and decompress strings of characters with high efficiency. This project is simulated with Verilator, synthesized with Quartus and tested with DE2 or DE10 kit.
